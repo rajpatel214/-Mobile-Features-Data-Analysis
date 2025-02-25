@@ -1,9 +1,11 @@
 # Mobile-Features-Data-Analysis
 ## Project Overview
-Predicting the price of a mobile phone based on historical data and its features is a valuable use case for mobile companies. By analyzing available data, we can determine which features significantly impact mobile pricing and optimize model parameters for improved prediction accuracy. This project focuses on feature selection, model tuning, and evaluating different regression models.
+Predicting the price of a mobile phone based on historical data and its features is a valuable use case for mobile companies. By analyzing available data, we can determine which features significantly impact mobile pricing and optimize model parameters for improved prediction accuracy. This project focuses on feature selection,features analysis and relation ,model tuning, and evaluating different regression models.
 
 ## Problem Statement
 Given various features of mobile phones, the goal is to build a regression model that predicts the approximate price of a mobile phone. Additionally, we analyze feature importance and optimize model parameters to improve performance.
+
+here in this analysis we analysis deeply features and rank and important feature and relation between them and get more imformation of features of data.
 
 ## Dataset
 The dataset contains various mobile features, including:
